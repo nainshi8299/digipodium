@@ -4,7 +4,7 @@ speed('fastest')
 bgcolor('black')
 pencolor('red')
 pensize(5)
-#goto(-250,250)
+goto(-250,250)
 
 for i in range (1,900,5):
     fd(i)
