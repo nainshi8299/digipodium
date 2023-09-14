@@ -13,7 +13,7 @@ circle(45,200)
 lt(220)
 circle(45,200)
 fd(120)
-
+#fd(120)
 end_fill()
 hideturtle()
 mainloop()
