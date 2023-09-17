@@ -11,5 +11,6 @@ for d,a in zip(dis,ng1):
     fd(d)
     lt(a)
 end_fill()
+
 hideturtle()
 mainloop()
