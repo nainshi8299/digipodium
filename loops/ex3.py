@@ -26,7 +26,7 @@ penup()
 
 rt(90)
 fd(4)
-lt(47.9)
+lt(48.1)
 pendown()
 
 fd(100)    
