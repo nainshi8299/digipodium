@@ -8,7 +8,7 @@ while True:
         
         rt(60)
         pencolor('blue')
-        fillcolor('black')
+        fillcolor('green')
         begin_fill()
         for i in range(6):
             fd(50)
