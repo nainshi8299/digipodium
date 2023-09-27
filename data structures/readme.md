@@ -18,4 +18,7 @@
 - can contain only unique values
 
 ##dict
-can contain
+- can contain only uniqne values
+- can contain only duplication
+- mutable
+- immutable
