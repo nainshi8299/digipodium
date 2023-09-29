@@ -15,10 +15,12 @@
 ##set
 - mutable
 - unindexed
+- unordered
 - can contain only unique values
 
 ##dict
-- can contain only uniqne values
+- can contain only uniqne keys
 - can contain only duplication
 - mutable
-- immutable
+- unordered
+- unidexed
