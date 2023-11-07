@@ -4,8 +4,8 @@
 
 from turtle import *
 #make a square
-speed('fast')# to control the speed
-pensize(4)
+speed('fastest')# to control the speed
+pensize(0.5)
 for i in range(5):
     fd(100)
     lt(90)
