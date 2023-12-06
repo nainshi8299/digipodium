@@ -5,3 +5,7 @@ matplotlib
 plotly
 seaborn
 nbformat
+streamlit
+flask
+datareader
+mplfinance
